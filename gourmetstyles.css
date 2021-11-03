@@ -1,0 +1,135 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10.4pt;
+    color: #232323;
+    font-weight: lighter;
+    text-align: left;
+}
+/*--------------------HOMEPAGE------------------------------*/
+.gourmet1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50.7pt;
+    color: #ff7e1c;
+    text-align: center;
+    background-color: #232323;
+}
+
+.gourmet2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12.5pt;
+    color: #ff7e1c;
+    text-align: center;
+    background-color: #232323;
+    font-weight: lighter;
+}
+a {
+    font-family: 'Oswald', sans-serif;
+    color: #ff7e1c;
+    font-size: 20.6pt;
+}
+.issue {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 10.4pt;
+    background-color: #232323;
+    padding: 50px;
+}
+/*---------------------------------------------------------*/
+/*--------------------THEOUTBACKGRILL------------------------------*/
+
+.outback1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    font-size: 43.6pt;
+    color: #ff7e1c;
+}
+   .rodney {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14.5pt;
+    color: #232323;
+    }
+    /*--------------------HEALTHYWEEKNIGHT------------------------------*/
+
+.healthy {
+    font-family: 'Oswald', sans-serif;
+    color: #ff7e1c;
+    text-align: center;
+    font-size: 43.6pt;
+    color: white;
+}
+.healthy3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #ff7e1c;
+    text-align: center;
+    font-size: 14.6pt;
+    color: white;
+}
+.healthy-box {
+    padding: 100px;
+    background-color:#ff7e1c ;
+}
+.span-box {
+    background-color: #ff7e1c;
+    padding: 50px;
+    color: white;
+}
+.span-box2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #ff7e1c;
+    font-size: 25.6pt;
+
+}
+/*---------------------------------------------------------*/
+ /*--------------------SUMMERSHRIMP PAGE------------------------------*/
+
+ .healthy5 {
+    font-family: 'Oswald', sans-serif;
+    color: #ff7e1c;
+    background-color:#232323;
+    text-align: center;
+    font-size: 43.6pt;
+    padding: 100px;
+    border: 1px;
+}
+.healthy6 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 14.5pt;
+    background-color:#232323; ;
+    color: white;
+    border: 1px;
+}
+    /*--------------------CHEFWAYNE------------------------------*/
+
+.chefwayne {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 37.4pt;
+    background-color:#ff7e1c ;
+    color: white;
+    padding: 300px;
+    border-radius: 50%;
+
+}
+.chefwayne2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #232323;
+    /* text-align: center; */
+    font-size: 16.6pt;
+    background-color:#ff7e1c ;
+    color: white;
+    padding: 500px;
+    border-radius: 50%;
+
+}
+/*---------------------------------------------------------*/
+
+
